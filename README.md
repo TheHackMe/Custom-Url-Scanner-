@@ -13,3 +13,4 @@ This Python script performs basic port scanning and vulnerability scanning.
 ---
 
 Author: Nix
+![Screenshot_13](https://github.com/user-attachments/assets/6f31e15c-bcd7-4bbf-a737-f3889f83dce3)
